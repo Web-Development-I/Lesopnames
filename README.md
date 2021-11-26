@@ -16,3 +16,5 @@ Les 6: [Lay-out - basis boxmodel](https://hogent.sharepoint.com/:v:/s/WebDevelop
 Les 7: [Lay-out - grid](https://hogent.sharepoint.com/:v:/s/WebDevelopmentI-VC/EYJHbK3PBkpBjhKAimgPUbEBhxk1_feuEn6REsUOLQ9GSA?e=XMZNLP)
 
 Les 8: [Lay-out - flex - float - position](https://hogent.sharepoint.com/:v:/s/WebDevelopmentI-VC/EUAyTscbT99Cns2yO4VDs3gB_uo7tqnpsTxZ5qm4DQRvLw?e=hAuogc)
+
+Les 9: [Lay-out resonsive: pages en images](https://hogent.sharepoint.com/:v:/s/PBA-TIN-TIVC1.01-S1CURPBATIN1399582021-WebDevelopmentITI-Gen/ERzl1FWwVUhIstbIUZ3wfiAB3cwq5bbkagiOSxKvzvPHRA?e=yipq0D)
