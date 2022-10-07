@@ -2,10 +2,17 @@
 
 
 Les 1: [HTML Basis deel 1 - CSS intro]   
-      https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/EUol9sxo4VlNved2QW4la7YBq3VJBHWYETcaIMhWMB9KDQ?e=XLoOXi
 
-      https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/ESs5xlhKYLpAjW10ILVA9uwBdWep0I3UjzfVVpP6bqvq0Q?e=MpPc4J
+https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/EUol9sxo4VlNved2QW4la7YBq3VJBHWYETcaIMhWMB9KDQ?e=XLoOXi
+
+https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/ESs5xlhKYLpAjW10ILVA9uwBdWep0I3UjzfVVpP6bqvq0Q?e=MpPc4J
+
 Les 2: [HTML Basis deel 2]
+
+https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/EQ7A_OTICgxIpPlTBwuW5P0BuMrwABYutOhhO-p88K_neQ?e=RdWFa4
+
+https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/EQ7A_OTICgxIpPlTBwuW5P0BuMrwABYutOhhO-p88K_neQ?e=arTYti
+
 
 Les 3: [HTML Tabellen en Formulieren]
 
