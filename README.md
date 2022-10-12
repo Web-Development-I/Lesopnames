@@ -11,8 +11,7 @@ Les 2: [HTML Basis deel 2]
 
 https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/EQ7A_OTICgxIpPlTBwuW5P0BuMrwABYutOhhO-p88K_neQ?e=RdWFa4
 
-https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/EQ7A_OTICgxIpPlTBwuW5P0BuMrwABYutOhhO-p88K_neQ?e=arTYti
-
+https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/EZp_w6Cr4_lNm1SEr00P2TYBgpQ9taAt-vTIqtnfE713wg?e=KYYKPJ
 
 Les 3: [HTML Tabellen en Formulieren]
 
