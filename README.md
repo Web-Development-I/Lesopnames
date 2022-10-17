@@ -15,6 +15,10 @@ https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopment
 
 Les 3: [HTML Tabellen en Formulieren]
 
+https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/EWCOlHSk5ltHtCxvGaRjT7kBnWOIdfR26zVWbMga2phQ9w?e=MWsLMC
+
+https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/ER_cynPRXn1Avi70nHyrY7kBcVUQxJNrD5ix2WDZAH76nQ?e=sJIHYK
+
 Les 4: [CSS Basis deel 1]
 
 Les 5: [CSS Basis deel 2]
