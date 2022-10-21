@@ -21,6 +21,10 @@ https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopment
 
 Les 4: [CSS Basis deel 1]
 
+https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/EdZCYme7NY5LgFQQSiaWA48BdPN6AjKKFS3V6QNFQU3DrQ?e=Xvr5yT
+
+https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/EbZjha-qf-1JkjiZ2Zb5KzgB-_iheu6bi_oltJ7YQB977Q?e=wLXj0x
+
 Les 5: [CSS Basis deel 2]
 
 Les 6: [Lay-out - basis boxmodel]
