@@ -27,6 +27,8 @@ https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopment
 
 Les 5: [CSS Basis deel 2]
 
+https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/EY_qqJy270hJvuaOUSLi-qYBzDblJ3Z_suzi2nskjkvpnQ?e=WZjSJC
+
 Les 6: [Lay-out - basis boxmodel]
 
 Les 7: [Lay-out - grid]
