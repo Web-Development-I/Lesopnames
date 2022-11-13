@@ -31,6 +31,9 @@ https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopment
 
 Les 6: [Lay-out - basis boxmodel]
 
+https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/ETPWb5pCCb5PgU95boFUgHABZ_IgDPIJVzxtqAKd9PM3zQ?e=4gaNh5
+
+
 Les 7: [Lay-out - grid]
 
 Les 8: [Lay-out - flex - float - position]
