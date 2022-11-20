@@ -36,6 +36,8 @@ https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopment
 
 Les 7: [Lay-out - grid]
 
+https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/EZdcgj3vW4lDrxKYH2gdAckBNarVGG50hcueouGNIpgoXA?e=bnLfjw
+
 Les 8: [Lay-out - flex - float - position]
 
 Les 9: [Lay-out resonsive: pages en images]
