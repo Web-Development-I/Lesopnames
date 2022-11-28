@@ -40,6 +40,8 @@ https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopment
 
 Les 8: [Lay-out - flex - float - position]
 
+https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/EW4md9GuHI1Jq0N2kRdfyOYBgN-0qC9wPPYSYT0R9Mvc_w?e=LS5BSf
+
 Les 9: [Lay-out resonsive: pages en images]
 
 Les 10: [Animaties in CSS]
