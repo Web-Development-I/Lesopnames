@@ -47,3 +47,5 @@ Les 9: [Lay-out resonsive: pages en images]
 https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/Eex-yABHmixMvU7NkwsUFN0Bbfb9QCUKzhyXyJD3hcz0eA?e=7UllGV
 
 Les 10: [Animaties in CSS]
+
+https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/ETkaOpc4DgZEn9tqAI649FUBG85TXSJt0d6ixjIMn9Nk-w?e=k3zpX0
