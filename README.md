@@ -49,3 +49,8 @@ https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopment
 Les 10: [Animaties in CSS]
 
 https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/ETkaOpc4DgZEn9tqAI649FUBG85TXSJt0d6ixjIMn9Nk-w?e=k3zpX0
+
+Les 11: [workshops preprocessor]
+
+https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1516902022-WebDevelopmentIGENT-AALST-VC-T/EZJsPDlUjAhFig4J5t0qBfABa6yGHNqPqlpIICHcYueEPw?e=X1GDiP
+
