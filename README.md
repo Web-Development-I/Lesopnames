@@ -2,7 +2,7 @@
 
 
 Les 1: [HTML Basis deel 1 - CSS intro]   
-
+https://hogent.sharepoint.com/:v:/s/WebDevelopmentI-VC77/ER7_pgBGHghOo4hL6xpO9WMBybZ6nvoGVz0NYjEyQ5BtHg?e=PFTecw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
 Les 2: [HTML Basis deel 2]
 
