@@ -9,7 +9,7 @@ https://hogent.sharepoint.com/:v:/s/WebDevelopmentI-VC77/Eb-nZ04Rk3lKnf1QwQgAdeU
 
 
 Les 3: [HTML Tabellen en Formulieren]
-
+https://hogent.sharepoint.com/:v:/s/WebDevelopmentI-VC77/EY6wxDt7UttNrqPef_3i_tcB29QNVE3QHYiJMbhmdi9KHg?e=N45aWf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
 
 Les 4: [CSS Basis deel 1]
