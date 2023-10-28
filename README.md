@@ -13,7 +13,7 @@ https://hogent.sharepoint.com/:v:/s/WebDevelopmentI-VC77/EY6wxDt7UttNrqPef_3i_tc
 
 
 Les 4: [CSS Basis deel 1]
-
+https://hogent.sharepoint.com/:v:/s/WebDevelopmentI-VC77/EetxCk3dcyZOidaCcuR-roQBo6q4esYHWx97Oyx6hXeqZQ?e=QbVEk5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
 
 Les 5: [CSS Basis deel 2]
