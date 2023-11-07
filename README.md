@@ -17,7 +17,7 @@ https://hogent.sharepoint.com/:v:/s/WebDevelopmentI-VC77/EetxCk3dcyZOidaCcuR-roQ
 
 
 Les 5: [CSS Basis deel 2]
-
+https://hogent.sharepoint.com/:v:/s/WebDevelopmentI-VC77/EUwUav588YhGrbcUYBYwsuMBhoegAIztAPIhuJbdGJZHKg?e=9Pkhrv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
 
 Les 6: [Lay-out - basis boxmodel]
