@@ -21,7 +21,7 @@ https://hogent.sharepoint.com/:v:/s/WebDevelopmentI-VC77/EUwUav588YhGrbcUYBYwsuM
 
 
 Les 6: [Lay-out - basis boxmodel]
-
+https://hogent.sharepoint.com/:v:/s/WebDevelopmentI-VC77/EZZoxAQpVq1Htw7CpaW332UBFtTRZm0xgI5geTVxRZTr4A?e=5pOTZH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
 Les 7: [Lay-out - grid]
 
