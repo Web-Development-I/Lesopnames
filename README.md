@@ -25,8 +25,6 @@ https://hogent.sharepoint.com/:v:/s/WebDevelopmentI-VC77/EZZoxAQpVq1Htw7CpaW332U
 
 Les 7: [Lay-out - grid]
 https://hogent.sharepoint.com/:v:/s/WebDevelopmentI-VC77/EbKMJDFFLQJGh5lOKOdveeYB9gJO8JL0D7H-GafB2egY7A?e=dRWjNE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-https://hogent.sharepoint.com/:v:/r/sites/WebDevelopmentI-VC77/Gedeelde%20documenten/General/Recordings/Les%20Web%20Development%20I-20231114_133302-Opname%20van%20vergadering.mp4?csf=1&web=1&e=yHTM7b&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
 
 Les 8: [Lay-out - flex - float - position]
 https://hogent.sharepoint.com/:v:/r/sites/WebDevelopmentI-VC77/Gedeelde%20documenten/General/Recordings/Les%20Web%20Development%20I-20231121_133255-Opname%20van%20vergadering.mp4?csf=1&web=1&e=wcdH27&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
