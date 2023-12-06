@@ -27,16 +27,15 @@ Les 7: [Lay-out - grid]
 https://hogent.sharepoint.com/:v:/s/WebDevelopmentI-VC77/EbKMJDFFLQJGh5lOKOdveeYB_vQ4kAz5-oJ9DQPUl2WZww?e=ek3Og0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 Les 8: [Lay-out - flex - float - position]
-https://hogent.sharepoint.com/:v:/r/sites/WebDevelopmentI-VC77/Gedeelde%20documenten/General/Recordings/Les%20Web%20Development%20I-20231121_133255-Opname%20van%20vergadering.mp4?csf=1&web=1&e=wcdH27&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+niet beschikbaar
 
 
 Les 9: [Lay-out resonsive: pages en images]
 
-https://hogent.sharepoint.com/:v:/s/WebDevelopmentI-VC77/EVc4Myf11kVCp-KqeWxrnwMBcuWn0LzxJT6DXCkJ7oV3Cg?e=rAYEg8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
+https://hogent.sharepoint.com/:v:/s/WebDevelopmentI-VC77/EVc4Myf11kVCp-KqeWxrnwMBcuWn0LzxJT6DXCkJ7oV3Cg?e=eLr7tv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 Les 10: [Animaties in CSS]
 
-
+https://hogent.sharepoint.com/:v:/s/WebDevelopmentI-VC77/Eas-CwQrlmZLto1sqC1UUREBlAMkZwYc4Lt7bzlga1QJ7Q?e=HBbNAk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
