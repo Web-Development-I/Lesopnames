@@ -1,7 +1,7 @@
 ## Lesopnames
 
 
-Les 1: [HTML Basis deel 1 - CSS intro]
+Les 1: [HTML Basis deel 1 - CSS intro](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIVC2024504/EQu9F81vFaBEi2giFR_hWJQB_yYgy_OpB9UJmIRjNUnm1w?e=fcD13d&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Les 2: [HTML Basis deel 2]
 
