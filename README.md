@@ -5,7 +5,7 @@ Les 1: [HTML Basis deel 1 - CSS intro](https://hogent.sharepoint.com/:v:/s/WebDe
 
 Les 2: [HTML Basis deel 2](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIVC2024504/EdT6OoS86L5KizsctZknyF4Ba23kfgyRFZc-bLkjDL6P4Q?e=ztu13S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Les 3: [HTML Tabellen en Formulieren]
+Les 3: [HTML Tabellen en Formulieren](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIVC2024504/Eazba-kCj2JNvRxoRClNRi0Bow43cxMKA0VS08a2lZwXyw?e=5mahSw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Les 4: [CSS Basis deel 1]
 
