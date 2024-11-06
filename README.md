@@ -11,7 +11,7 @@ Les 4: [CSS Basis deel 1](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIVC2
 
 Les 5: [CSS Basis deel 2](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIVC2024504/EXPT6Rnt5fNHsFcNEC0bcS0B81kCPm7B_5fm_-6Qtc5jfA?e=rewgsw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Les 6: [Lay-out - basis boxmodel]
+Les 6: [Lay-out - basis boxmodel](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIVC2024504/EYLPqZjdJRxJuPbBM6OkwEUB0fUhiXJnzk_5PSBtd5uYdA?e=wOnBng&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Les 7: [Lay-out - grid]
 
