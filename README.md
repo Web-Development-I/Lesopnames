@@ -13,9 +13,9 @@ Les 5: [CSS Basis deel 2](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIVC2
 
 Les 6: [Lay-out - basis boxmodel](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIVC2024504/EYLPqZjdJRxJuPbBM6OkwEUB0fUhiXJnzk_5PSBtd5uYdA?e=wOnBng&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Les 7: [Lay-out - grid]
+Les 7: [Lay-out - flex]
 
-Les 8: [Lay-out - flex - float - position]
+Les 8: [Lay-out - grid - float - position]
 
 Les 9: [Lay-out resonsive: pages en images]
 
