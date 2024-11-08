@@ -13,7 +13,7 @@ Les 5: [CSS Basis deel 2](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIVC2
 
 Les 6: [Lay-out - basis boxmodel](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIVC2024504/EYLPqZjdJRxJuPbBM6OkwEUB0fUhiXJnzk_5PSBtd5uYdA?e=wOnBng&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Les 7: [Lay-out - flex]
+Les 7: [Lay-out - flex](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIVC2024504/EZ6qPBgbLA5MqgqpEvW0Z10BS9jbZIHKMb29KRxcR5KZPg?e=qQHtY4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Les 8: [Lay-out - grid - float - position]
 
