@@ -15,7 +15,7 @@ Les 6: [Lay-out - basis boxmodel](https://hogent.sharepoint.com/:v:/s/WebDevelop
 
 Les 7: [Lay-out - flex](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIVC2024504/EZ6qPBgbLA5MqgqpEvW0Z10BS9jbZIHKMb29KRxcR5KZPg?e=qQHtY4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Les 8: [Lay-out - grid - float - position]
+Les 8: [Lay-out - grid - float - position](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIVC2024504/ET2CTUpldOxBi81BdX6KuvYBjsBX03HE4mOVEQXh9leIwg?e=UuR3PB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Les 9: [Lay-out resonsive: pages en images]
 
