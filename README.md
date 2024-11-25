@@ -17,7 +17,7 @@ Les 7: [Lay-out - flex](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIVC202
 
 Les 8: [Lay-out - grid - float - position](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIVC2024504/ET2CTUpldOxBi81BdX6KuvYBjsBX03HE4mOVEQXh9leIwg?e=UuR3PB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Les 9: [Lay-out resonsive: pages en images]
+Les 9: [Lay-out resonsive: pages en images](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIVC2024504/EdXrm-U4tPBDpEzOoiSRISoBYULrwdCCzeQzvjy8pR0oHw?e=7tUZYi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Les 10: [Animaties in CSS]
 
